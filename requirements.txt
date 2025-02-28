@@ -1,5 +1,5 @@
 pandas
-av
+cv
 streamlit
 numpy
 mediapipe
