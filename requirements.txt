@@ -4,3 +4,4 @@ streamlit
 numpy
 mediapipe
 keras
+streamlit_webrtc
