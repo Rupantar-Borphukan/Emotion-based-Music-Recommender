@@ -1,6 +1,6 @@
 pandas
-plotly
+av
 streamlit
-yfinance
-pandas-datareader
-prophet
+numpy
+mediapipe
+keras
